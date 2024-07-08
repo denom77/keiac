@@ -22,7 +22,7 @@ client.on('ready', async () => {
         .setAssetsLargeText('Trusted')
         .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1190619079011225670/1259798167516483584/vraje.gif?ex=668cfdf9&is=668bac79&hm=48a6416e5736267e0a698da7a24fad938e0f38c5aed8d7cb39e480ae1b25e1ad&')
         .setAssetsSmallText('Verified')
-        .addButton('Join Kei Store', 'https://discord.gg/ZSvn6Zt5uT')
+        .addButton('Join Discord Server', 'https://discord.gg/ZSvn6Zt5uT')
         .addButton('Order? Wa', 'https://wa.me/6282132910644');
 
     client.user.setActivity(r);
