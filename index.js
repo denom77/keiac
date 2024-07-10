@@ -18,9 +18,9 @@ client.on('ready', async () => {
         .setState('& Akun. Aman & Terpercaya')
         .setName('Kei Store')
         .setDetails('Menjual Jasa Top up, Jasa Joki')
-        .setAssetsLargeImage('https://media.discordapp.net/attachments/1190619079011225670/1259800090323980378/c49e2ffe-b8c6-4be0-82d6-5d5397df6f76.jpg?ex=668cffc3&is=668bae43&hm=ba116753676e9aa1a77b539b53ad59855d1677a14315535e60a7e3dff6743b2e&=&format=webp&width=422&height=422')
+        .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1190619079011225670/1260564002862399498/c49e2ffe-b8c6-4be0-82d6-5d5397df6f76.jpg?ex=668fc736&is=668e75b6&hm=486b165835cb5ecd600281d61f0fed60f9cecca91004915f7558f67ee7875776&')
         .setAssetsLargeText('Trusted')
-        .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1190619079011225670/1259798167516483584/vraje.gif?ex=668cfdf9&is=668bac79&hm=48a6416e5736267e0a698da7a24fad938e0f38c5aed8d7cb39e480ae1b25e1ad&')
+        .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1190619079011225670/1260563932058484797/vraje.gif?ex=668fc725&is=668e75a5&hm=72216e0fff9869baab145ac1d41bf18d7e1b5a3c72f4d7bfbf7b54bdb4988a34&')
         .setAssetsSmallText('Verified')
         .addButton('Join Discord Server', 'https://discord.gg/ZSvn6Zt5uT')
         .addButton('Order? Wa', 'https://wa.me/6282132910644');
